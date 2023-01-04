@@ -8,7 +8,7 @@
   "layers": [
     [
       "KC_TAB",
-      "MEH_T(KC_Q)",
+      "KC_Q",
       "KC_W",
       "KC_E",
       "KC_R",
@@ -45,8 +45,8 @@
       "KC_RSFT",
       "KC_LCTL",
       "LT(1,KC_SPC)",
-      "KC_LGUI",
       "KC_RALT",
+      "KC_LGUI",
       "LT(2,KC_SPC)",
       "KC_RCTL"
     ],
